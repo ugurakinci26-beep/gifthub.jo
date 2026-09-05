@@ -22,7 +22,7 @@ h1{font-size:clamp(48px,7vw,88px);line-height:1.02;margin:0 0 28px;letter-spacin
   font-size:20px;
   line-height:1.8;
   color:var(--muted);
-}}
+}
 .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}.card{background:var(--card);padding:32px;border:1px solid var(--line);min-height:280px}.card span{color:var(--accent2);font-size:13px}.card h3{font-size:24px;line-height:1.2}.card p{color:var(--muted)}.card a{color:var(--accent);font-weight:700;text-decoration:none}
 .timeline{border-top:1px solid var(--line)}.timeline div{display:flex;justify-content:space-between;padding:25px 0;border-bottom:1px solid var(--line)}.timeline span{color:var(--muted)}
 .contact{margin:40px 9% 100px;padding:70px;border-radius:4px;background:var(--accent);color:white}.contact .eyebrow{color:#d7e4dd}.contact p:not(.eyebrow){opacity:.85}.contact .btn.primary{background:white;color:var(--accent)}
